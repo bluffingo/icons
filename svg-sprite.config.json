@@ -2,18 +2,12 @@
     "mode": {
         "symbol": {
             "dest": ".",
-                "sprite": "sprite.svg",
-                    "example": false
-        }
-    },
-    "shape": {
-        "id": {
-            "separator": "--",
-                "generator": "name"
+            "sprite": "sprite.svg",
+            "example": false
         }
     },
     "svg": {
         "xmlDeclaration": false,
-            "doctypeDeclaration": false
+        "doctypeDeclaration": false
     }
 }
